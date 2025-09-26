@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Roobet Auto rain joiner",
+  "version": "1.0",
+  "description": "Dont ever miss a rain again, just be sure to wager $250 every 48h",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://*.roobet.com/*"],
+      "js": ["qrious.min.js", "content.js"]
+    }
+  ]
+}
