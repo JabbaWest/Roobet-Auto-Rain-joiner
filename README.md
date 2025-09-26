@@ -1,6 +1,6 @@
 # Roobet.com BOT Auto Join Rain
 
-![Auto rain panel](./ss11.jpg)
+![Auto rain panel](./ss11.png)
 
 ## Features
 
